@@ -36,5 +36,5 @@ test ：用于存放测试代码
 pubspec.yaml ：配置文件，一般存放一些第三方的依赖
 
 ## 帮助
-如有需要请联系：linminjie@yy.com, zhouwen3@yy.com
+如有需要请联系：huangcanbin@yy.com, zhouwen3@yy.com
 

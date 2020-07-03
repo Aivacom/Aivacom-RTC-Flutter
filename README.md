@@ -2,7 +2,7 @@
 
 *English Version： [English](README.en.md)*
 
-Aivacom-RTC-Flutter 版本插件，基于ThunderBlot sdk 版本号为 2.9.0，接口与 ThunerBlot 一比一对应。
+Aivacom-RTC-Flutter 版本插件，基于ThunderBlot sdk 版本号为 2.8.2，接口与 ThunerBlot 一比一对应。
 详细文档可参考: https://docs.aivacom.com/cloud/cn/product_category/rtc_service/rt_video_interaction/api/Android/v2.9.0/category.html
 
 ## 集成

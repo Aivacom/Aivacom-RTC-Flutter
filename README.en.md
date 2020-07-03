@@ -2,7 +2,7 @@
 *中文版本： [简体中文](README.md)*
 
 Aivacom_RTC_Flutter version plug-in, based on ThunderBlot sdk version number is 2.9.0, the interface corresponds to ThunerBlot one to one.
-For detailed documents, please refer to : https://docs.aivacom.com/cloud/cn/product_category/rtc_service/rt_video_interaction/api/Android/v2.9.0/category.html
+For detailed documents, please refer to : https://docs.aivacom.com/cloud/en/product_category/rtc_service/rt_video_interaction/api/Android/v2.8.0/category.html
 
 ## 集成
 #### 1.flutter dependency
